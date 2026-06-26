@@ -1,6 +1,5 @@
 # StrengthScope
 My Cognifyz project's level2 task2
-# 🔐 Password Strength Checker
 
 A Java console application that analyzes a password and classifies it as **Weak**, **Medium**, or **Strong** based on standard security criteria.
 
@@ -24,8 +23,8 @@ A Java console application that analyzes a password and classifies it as **Weak*
 ## ▶️ How to Run
 
 ```bash
-javac PasswordStrengthChecker.java
-java PasswordStrengthChecker
+javac StrengthScope.java
+java StrengthScope
 ```
 
 ## 📌 Example
