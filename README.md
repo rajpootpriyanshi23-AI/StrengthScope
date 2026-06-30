@@ -1,5 +1,5 @@
 # StrengthScope
-My Cognifyz project's level2 task2
+
 
 A Java console application that analyzes a password and classifies it as **Weak**, **Medium**, or **Strong** based on standard security criteria.
 
