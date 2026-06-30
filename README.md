@@ -1,6 +1,5 @@
 # StrengthScope
 
-
 A Java console application that analyzes a password and classifies it as **Weak**, **Medium**, or **Strong** based on standard security criteria.
 
 ## 🚀 Features
